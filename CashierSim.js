@@ -6,35 +6,15 @@ const GroceryItem = {
 class GroceryItemDAO {
     constructor(){}
 
-    seedDB() {
-        window.localStorage.setItem("mock_grocery_items", JSON.stringify(this.getMockGroceryItems()));
-    }
-
-    getMockGroceryItems() {
-        const item1 = Object.create(GroceryItem);
-        item1.name = "item1";
-        item1.price = "$1.00";
-
-        const item2 = Object.create(GroceryItem);
-        item2.name = "item2";
-        item2.price = "$1.49";
-
-        const item3 = Object.create(GroceryItem);
-        item3.name = "item3";
-        item3.price = "$56.99";
-
-        return [item1, item2, item3];
-    }
-
     getGroceryItems() {
-        return JSON.parse(window.localStorage.getItem("mock_grocery_items"));
+        return JSON.parse(window.localStorage.getItem("grocery_items"));
     }
 }
 
 class Main {
     constructor() {
         const groceryItemDAO = new GroceryItemDAO();
-        groceryItemDAO.seedDB();
+        console.log(groceryItemDAO.getGroceryItems());
     }
 }
 
