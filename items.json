@@ -1,0 +1,635 @@
+[
+    {
+        "name": "Fresh Mountain Greens Salad Mix",
+        "price": "$2.49"
+    },
+    {
+        "name": "Prairie Pride Pancake Mix",
+        "price": "$3.29"
+    },
+    {
+        "name": "Boulder Breeze Facial Tissues (pack of 3)",
+        "price": "$2.99"
+    },
+    {
+        "name": "Colorado Crunch Potato Chips",
+        "price": "$2.79"
+    },
+    {
+        "name": "Sunrise Farms Organic Eggs (dozen)",
+        "price": "$4.99"
+    },
+    {
+        "name": "Mesa Verde Mexican Salsa",
+        "price": "$2.49"
+    },
+    {
+        "name": "Alpine Meadows Milk (gallon)",
+        "price": "$2.99"
+    },
+    {
+        "name": "Wild West Beef Jerky",
+        "price": "$5.99"
+    },
+    {
+        "name": "Redwood Forest Raspberry Jam",
+        "price": "$3.99"
+    },
+    {
+        "name": "Alpine Peaks Frozen Pizza",
+        "price": "$4.99"
+    },
+    {
+        "name": "Crystal Clear Dish Soap",
+        "price": "$1.99"
+    },
+    {
+        "name": "Snowflake Sugar Cookies (package)",
+        "price": "$3.49"
+    },
+    {
+        "name": "Mountain Mist Laundry Detergent",
+        "price": "$6.99"
+    },
+    {
+        "name": "Roaring Rapids Marinara Sauce",
+        "price": "$2.49"
+    },
+    {
+        "name": "Rocky Road Ice Cream (pint)",
+        "price": "$3.99"
+    },
+    {
+        "name": "High Plains Honey",
+        "price": "$6.49"
+    },
+    {
+        "name": "Colorado Craft Beer (6-pack)",
+        "price": "$9.99"
+    },
+    {
+        "name": "Evergreen Forest Facial Cleanser",
+        "price": "$4.99"
+    },
+    {
+        "name": "Mountain View Macaroni and Cheese",
+        "price": "$1.79"
+    },
+    {
+        "name": "Thunderbolt Energy Drink",
+        "price": "$1.99"
+    },
+    {
+        "name": "Harvest Moon Honey Wheat Bread",
+        "price": "$2.99"
+    },
+    {
+        "name": "Roastin' Rockies Ground Beef (1 lb)",
+        "price": "$5.99"
+    },
+    {
+        "name": "Summit Snack Crackers",
+        "price": "$2.99"
+    },
+    {
+        "name": "Canyon Creek Canned Soup (3-pack)",
+        "price": "$3.49"
+    },
+    {
+        "name": "Denver Delight Dog Food (5 lb bag)",
+        "price": "$6.49"
+    },
+    {
+        "name": "Boulder Brewed Iced Tea (bottle)",
+        "price": "$1.99"
+    },
+    {
+        "name": "Mesa Vista Maple Syrup",
+        "price": "$4.49"
+    },
+    {
+        "name": "Boulder Blend Trail Mix",
+        "price": "$3.99"
+    },
+    {
+        "name": "Fresh Picked Palisade Peaches (per pound)",
+        "price": "$2.99"
+    },
+    {
+        "name": "Rocky Mountain Rainbow Trout Fillet",
+        "price": "$8.99"
+    },
+    {
+        "name": "Prairie Gold Popcorn",
+        "price": "$2.29"
+    },
+    {
+        "name": "Colorado Campfire Charcoal Briquettes",
+        "price": "$4.99"
+    },
+    {
+        "name": "Mile High Mint Chocolate Bar",
+        "price": "$2.99"
+    },
+    {
+        "name": "Alpine Meadows Yogurt (4-pack)",
+        "price": "$3.49"
+    },
+    {
+        "name": "Rocky Ridge Ravioli",
+        "price": "$3.99"
+    },
+    {
+        "name": "Aspen Arbor Apple Juice",
+        "price": "$2.49"
+    },
+    {
+        "name": "Peak Performance Protein Bar",
+        "price": "$1.99"
+    },
+    {
+        "name": "Valley Vineyards Red Wine (750ml)",
+        "price": "$12.99"
+    },
+    {
+        "name": "Wildflower Honey Mustard",
+        "price": "$2.49"
+    },
+    {
+        "name": "Boulder Breeze Bath Soap (4-pack)",
+        "price": "$3.99"
+    },
+    {
+        "name": "Canyon Creek Canned Beans",
+        "price": "$1.49"
+    },
+    {
+        "name": "Rugged Raisin Bran Cereal",
+        "price": "$3.29"
+    },
+    {
+        "name": "Colorado Cattle Co. Hot Dogs (8-pack)",
+        "price": "$3.99"
+    },
+    {
+        "name": "Snow-Capped Sugar (5 lb bag)",
+        "price": "$4.99"
+    },
+    {
+        "name": "Colorado Cozy Corn Chowder",
+        "price": "$3.49"
+    },
+    {
+        "name": "Timberland Trail Granola Bars (box of 6)",
+        "price": "$2.49"
+    },
+    {
+        "name": "Fresh Harvest Honeydew Melon",
+        "price": "$2.99"
+    },
+    {
+        "name": "Boulder Brewed Craft Soda (bottle)",
+        "price": "$1.99"
+    },
+    {
+        "name": "Mountain View Frozen Vegetables",
+        "price": "$1.99"
+    },
+    {
+        "name": "Rocky Mountain Roasters Tea Bags (box of 20)",
+        "price": "$2.99"
+    },
+    {
+        "name": "Rocky Ridge Ranch Dressing",
+        "price": "$2.49"
+    },
+    {
+        "name": "Mesa Vista Maple Pancake Syrup",
+        "price": "$3.29"
+    },
+    {
+        "name": "Alpine Peaks Frozen Berry Blend",
+        "price": "$3.99"
+    },
+    {
+        "name": "Rocky Mountain Roast Ground Coffee (12 oz)",
+        "price": "$6.49"
+    },
+    {
+        "name": "Sunrise Farms Organic Chicken Breasts (per pound)",
+        "price": "$6.99"
+    },
+    {
+        "name": "Snowflake Sugar-Free Cookies (package)",
+        "price": "$3.99"
+    },
+    {
+        "name": "Fresh Harvest Honeycrisp Apples (per pound)",
+        "price": "$1.99"
+    },
+    {
+        "name": "High Country Hummus",
+        "price": "$3.49"
+    },
+    {
+        "name": "Prairie Pride Pasta Sauce",
+        "price": "$2.99"
+    },
+    {
+        "name": "Boulder Breeze Facial Cleansing Wipes (pack of 30)",
+        "price": "$3.99"
+    },
+    {
+        "name": "Wild West Wheat Crackers",
+        "price": "$2.99"
+    },
+    {
+        "name": "Roaring Rapids Barbecue Sauce",
+        "price": "$2.99"
+    },
+    {
+        "name": "Rocky Road Ice Cream Sandwiches (box of 4)",
+        "price": "$4.99"
+    },
+    {
+        "name": "High Plains Almond Butter",
+        "price": "$5.99"
+    },
+    {
+        "name": "Colorado Craft Cider (6-pack)",
+        "price": "$11.99"
+    },
+    {
+        "name": "Alpine Peaks Frozen Burritos (2-pack)",
+        "price": "$4.99"
+    },
+    {
+        "name": "Crystal Clear Window Cleaner",
+        "price": "$2.49"
+    },
+    {
+        "name": "Canyon Creek Canned Tomato Soup (3-pack)",
+        "price": "$3.49"
+    },
+    {
+        "name": "Denver Delight Cat Food (5 lb bag)",
+        "price": "$5.99"
+    },
+    {
+        "name": "Evergreen Forest Moisturizing Lotion",
+        "price": "$4.49"
+    },
+    {
+        "name": "Mountain View Rotini Pasta",
+        "price": "$1.79"
+    },
+    {
+        "name": "Thunderbolt Sports Drink",
+        "price": "$1.99"
+    },
+    {
+        "name": "Harvest Moon Multigrain Bread",
+        "price": "$2.49"
+    },
+    {
+        "name": "",
+        "price": ""
+    },
+    {
+        "name": "",
+        "price": ""
+    },
+    {
+        "name": "",
+        "price": ""
+    },
+    {
+        "name": "",
+        "price": ""
+    },
+    {
+        "name": "",
+        "price": ""
+    },
+    {
+        "name": "",
+        "price": ""
+    },
+    {
+        "name": "",
+        "price": ""
+    },
+    {
+        "name": "Boulder Brewed Lemonade (bottle)",
+        "price": "$1.99"
+    },
+    {
+        "name": "Mesa Vista Blackberry Jam",
+        "price": "$3.49"
+    },
+    {
+        "name": "Boulder Blend Energy Bars",
+        "price": "$3.99"
+    },
+    {
+        "name": "Fresh Picked Palisade Cherries (per pound)",
+        "price": "$4.99"
+    },
+    {
+        "name": "Rocky Mountain Rainbow Trout Fillet (skinless)",
+        "price": "$9.99"
+    },
+    {
+        "name": "Prairie Gold Tortilla Chips",
+        "price": "$1.99"
+    },
+    {
+        "name": "Colorado Campfire Marshmallows",
+        "price": "$2.49"
+    },
+    {
+        "name": "Roastin' Rockies Ground Turkey (1 lb)",
+        "price": "$4.99"
+    },
+    {
+        "name": "Summit Snack Pretzels",
+        "price": "$2.99"
+    },
+    {
+        "name": "Peak Performance Pre-Workout Powder",
+        "price": "$19.99"
+    },
+    {
+        "name": "Valley Vineyards White Wine (750ml)",
+        "price": "$10.99"
+    },
+    {
+        "name": "Rugged Raisin Oatmeal",
+        "price": "$3.29"
+    },
+    {
+        "name": "Colorado Cattle Co. Bacon (12 oz)",
+        "price": "$4.99"
+    },
+    {
+        "name": "Snow-Capped Flour (5 lb bag)",
+        "price": "$3.99"
+    },
+    {
+        "name": "Mile High Milk Chocolate Bar",
+        "price": "$2.99"
+    },
+    {
+        "name": "Alpine Meadows Greek Yogurt (4-pack)",
+        "price": "$3.99"
+    },
+    {
+        "name": "Rocky Ridge Ricotta Cheese",
+        "price": "$3.99"
+    },
+    {
+        "name": "Aspen Arbor Orange Juice",
+        "price": "$2.49"
+    },
+    {
+        "name": "Boulder Breeze Body Wash",
+        "price": "$2.99"
+    },
+    {
+        "name": "Canyon Creek Canned Corn",
+        "price": "$1.49"
+    },
+    {
+        "name": "Colorado Cozy Chicken Noodle Soup",
+        "price": "$3.99"
+    },
+    {
+        "name": "Timberland Trail Protein Bars (box of 6)",
+        "price": "$3.49"
+    },
+    {
+        "name": "Fresh Harvest Cantaloupe Melon",
+        "price": "$2.99"
+    },
+    {
+        "name": "Boulder Brewed Root Beer (bottle)",
+        "price": "$1.99"
+    },
+    {
+        "name": "Mountain View Frozen Strawberries",
+        "price": "$2.99"
+    },
+    {
+        "name": "Rocky Mountain Roasters Instant Coffee (8 oz)",
+        "price": "$5.99"
+    },
+    {
+        "name": "Wildflower Honey Barbecue Sauce",
+        "price": "$2.99"
+    },
+    {
+        "name": "Alpine Peaks Frozen Mixed Vegetables",
+        "price": "$2.99"
+    },
+    {
+        "name": "Rocky Mountain Roast Whole Bean Coffee (16 oz)",
+        "price": "$7.49"
+    },
+    {
+        "name": "Sunrise Farms Organic Ground Turkey (per pound)",
+        "price": "$7.99"
+    },
+    {
+        "name": "Fresh Harvest Bartlett Pears (per pound)",
+        "price": "$1.99"
+    },
+    {
+        "name": "High Country Salsa",
+        "price": "$2.99"
+    },
+    {
+        "name": "Prairie Pride Alfredo Sauce",
+        "price": "$3.29"
+    },
+    {
+        "name": "Boulder Breeze Makeup Wipes (pack of 30)",
+        "price": "$3.99"
+    },
+    {
+        "name": "Wild West Cheese Puffs",
+        "price": "$2.99"
+    },
+    {
+        "name": "Rocky Ridge Caesar Dressing",
+        "price": "$2.49"
+    },
+    {
+        "name": "Mesa Vista Organic Maple Syrup",
+        "price": "$4.99"
+    },
+    {
+        "name": "Rocky Road Frozen Yogurt (pint)",
+        "price": "$3.99"
+    },
+    {
+        "name": "High Plains Cashew Butter",
+        "price": "$6.99"
+    },
+    {
+        "name": "Colorado Craft Root Beer (6-pack)",
+        "price": "$8.99"
+    },
+    {
+        "name": "Alpine Peaks Frozen Chicken Nuggets",
+        "price": "$4.99"
+    },
+    {
+        "name": "Crystal Clear All-Purpose Cleaner",
+        "price": "$2.49"
+    },
+    {
+        "name": "Snowflake Sugar-Free Brownies (package)",
+        "price": "$4.49"
+    },
+    {
+        "name": "Denver Delight Bird Seed (5 lb bag)",
+        "price": "$4.99"
+    },
+    {
+        "name": "Evergreen Forest Face Mask",
+        "price": "$3.99"
+    },
+    {
+        "name": "Mountain View Rotisserie Chicken",
+        "price": "$6.49"
+    },
+    {
+        "name": "Thunderbolt Coconut Water",
+        "price": "$1.99"
+    },
+    {
+        "name": "Harvest Moon Rye Bread",
+        "price": "$2.49"
+    },
+    {
+        "name": "Roaring Rapids Teriyaki Sauce",
+        "price": "$2.99"
+    },
+    {
+        "name": "Roastin' Rockies Ground Pork (1 lb)",
+        "price": "$5.99"
+    },
+    {
+        "name": "Summit Snack Cheese Balls",
+        "price": "$2.99"
+    },
+    {
+        "name": "Canyon Creek Canned Chicken Noodle Soup (3-pack)",
+        "price": "$2.99"
+    },
+    {
+        "name": "Valley Vineyards Sparkling Wine (750ml)",
+        "price": "$13.99"
+    },
+    {
+        "name": "Boulder Brewed Ginger Ale (bottle)",
+        "price": "$1.99"
+    },
+    {
+        "name": "Mesa Vista Raspberry Preserves",
+        "price": "$3.29"
+    },
+    {
+        "name": "Boulder Blend Protein Bars",
+        "price": "$3.99"
+    },
+    {
+        "name": "Fresh Picked Palisade Apricots (per pound)",
+        "price": "$3.99"
+    },
+    {
+        "name": "Rocky Mountain Rainbow Trout Fillet (smoked)",
+        "price": "$10.99"
+    },
+    {
+        "name": "Prairie Gold Pita Chips",
+        "price": "$2.49"
+    },
+    {
+        "name": "Colorado Campfire Graham Crackers",
+        "price": "$2.29"
+    },
+    {
+        "name": "Colorado Cattle Co. Ground Bison (12 oz)",
+        "price": "$7.99"
+    },
+    {
+        "name": "Snow-Capped Baking Powder",
+        "price": "$2.49"
+    },
+    {
+        "name": "Mile High Dark Chocolate Bar",
+        "price": "$2.99"
+    },
+    {
+        "name": "Alpine Meadows Kefir (4-pack)",
+        "price": "$4.99"
+    },
+    {
+        "name": "Rocky Ridge Cottage Cheese",
+        "price": "$3.99"
+    },
+    {
+        "name": "Aspen Arbor Cranberry Juice",
+        "price": "$2.49"
+    },
+    {
+        "name": "Peak Performance Electrolyte Drink",
+        "price": "$2.99"
+    },
+    {
+        "name": "Mountain View Frozen Blueberries",
+        "price": "$3.49"
+    },
+    {
+        "name": "Rocky Mountain Roasters Decaf Coffee (12 oz)",
+        "price": "$6.99"
+    },
+    {
+        "name": "Wildflower Honey Sriracha Sauce",
+        "price": "$3.49"
+    },
+    {
+        "name": "Boulder Breeze Body Lotion",
+        "price": "$3.99"
+    },
+    {
+        "name": "Canyon Creek Canned Green Beans",
+        "price": "$1.49"
+    },
+    {
+        "name": "Rugged Raisin Cookie Dough",
+        "price": "$3.49"
+    },
+    {
+        "name": "Timberland Trail Mix",
+        "price": "$2.99"
+    },
+    {
+        "name": "Alpine Springs Bottled Water (6-pack)",
+        "price": "$3.49"
+    },
+    {
+        "name": "Rocky Mountain Roast Coffee",
+        "price": "$7.99"
+    },
+    {
+        "name": "Golden Harvest Granola",
+        "price": "$4.49"
+    },
+    {
+        "name": "Zesty Zucchini Bread",
+        "price": "$3.99"
+    }
+]
+
